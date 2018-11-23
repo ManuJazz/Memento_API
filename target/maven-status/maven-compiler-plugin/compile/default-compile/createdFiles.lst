@@ -1,0 +1,14 @@
+io/swagger/model/MementoItem.class
+io/swagger/api/MementoApi.class
+io/swagger/api/RFC3339DateFormat.class
+io/swagger/api/StringUtil.class
+io/swagger/api/factories/MementoApiServiceFactory.class
+io/swagger/api/ApiOriginFilter.class
+io/swagger/api/ApiResponseMessage.class
+io/swagger/model/ModelApiResponse.class
+io/swagger/api/MementoApiService.class
+io/swagger/api/NotFoundException.class
+io/swagger/api/Bootstrap.class
+io/swagger/api/JacksonJsonProvider.class
+io/swagger/api/impl/MementoApiServiceImpl.class
+io/swagger/api/ApiException.class

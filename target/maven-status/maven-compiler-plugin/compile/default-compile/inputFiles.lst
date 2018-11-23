@@ -1,0 +1,14 @@
+/projects/Memento_API/src/gen/java/io/swagger/api/RFC3339DateFormat.java
+/projects/Memento_API/src/gen/java/io/swagger/api/NotFoundException.java
+/projects/Memento_API/src/gen/java/io/swagger/api/StringUtil.java
+/projects/Memento_API/src/gen/java/io/swagger/api/MementoApiService.java
+/projects/Memento_API/src/gen/java/io/swagger/api/JacksonJsonProvider.java
+/projects/Memento_API/src/gen/java/io/swagger/model/MementoItem.java
+/projects/Memento_API/src/gen/java/io/swagger/api/ApiException.java
+/projects/Memento_API/src/gen/java/io/swagger/api/MementoApi.java
+/projects/Memento_API/src/main/java/io/swagger/api/factories/MementoApiServiceFactory.java
+/projects/Memento_API/src/main/java/io/swagger/api/Bootstrap.java
+/projects/Memento_API/src/gen/java/io/swagger/model/ModelApiResponse.java
+/projects/Memento_API/src/main/java/io/swagger/api/impl/MementoApiServiceImpl.java
+/projects/Memento_API/src/gen/java/io/swagger/api/ApiResponseMessage.java
+/projects/Memento_API/src/gen/java/io/swagger/api/ApiOriginFilter.java
